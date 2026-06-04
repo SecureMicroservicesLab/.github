@@ -4,8 +4,9 @@
 
 **SecureMicroservicesLab** es una organización dedicada al desarrollo, despliegue y validación de aplicaciones y APIs seguras basadas en arquitecturas modernas de microservicios y servicios REST.
 
-La organización reúne proyectos, configuraciones, documentación técnica y evidencias de validación desarrollados en el ámbito de la ciberseguridad aplicada al desarrollo de software, con especial foco en la protección de APIs REST y la adopción de prácticas DevSecOps.
+La organización ha sido creada como soporte al Trabajo Fin de Máster del Máster Universitario en Ciberseguridad de la Universidad Internacional de La Rioja (UNIR), titulado **"Metodología de implementación, despliegue seguro y validación mediante pentesting de APIs REST con Spring Boot"**.
 
+En ella se reúnen los proyectos, configuraciones, documentación técnica y evidencias de validación desarrollados durante el trabajo de investigación, con especial foco en la seguridad de APIs REST, la integración de prácticas DevSecOps, la automatización de despliegues y la aplicación de metodologías de análisis y pentesting sobre entornos reales.
 ---
 
 ## Objetivos
